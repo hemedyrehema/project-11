@@ -1,0 +1,53 @@
+ body{
+    background-image: url(https://th.bing.com/th/id/OIP.2Ys-7-217jB16M-NoPPVgAHaEo?rs=1&pid=ImgDetMain);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+ }
+ header{
+    background-color: cadetblue;
+    padding: 13px;
+    text-align: center;
+}
+nav ul{
+    list-style:none;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    display: flex;
+}
+nav li{
+    display: inline;
+    margin-right: 40px;
+    font-size: medium;
+}
+nav a{
+    color:goldenrod;
+    text-decoration: none;
+}
+/* table , th ,td{ 
+    border: 1px solid;
+    border-collapse: collapse;
+    
+}
+
+ */
+ table ,th ,td{
+    border: 1px solid;
+    border-collapse: collapse;
+ }
+ table ,th ,td{
+    width: 100%;
+    min-width: 60px;
+    padding-left: 300px;
+    padding-right: 300px; 
+ }
+ footer{
+    padding: 80px;
+    text-align: right;
+    background-color: cadetblue;
+    color: black;
+    font-size: 40px;
+
+ }
+ 
